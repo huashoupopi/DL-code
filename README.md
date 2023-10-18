@@ -1,5 +1,5 @@
 # DL code
- use paddlepaddle
- numpy
- os  etc...
+ - use paddlepaddle
+ - numpy
+ - os  etc...
  some DL codes and models
